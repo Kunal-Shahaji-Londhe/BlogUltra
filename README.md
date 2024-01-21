@@ -79,7 +79,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or pull requests to improve the application.
-
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE).
