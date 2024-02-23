@@ -4,7 +4,7 @@ Welcome to BlogUltra – Your Gateway to Mindful Living 🌟
 
 ## Overview 📖
 
-BlogUltra is a personal blog website built with the latest web technologies to provide a seamless and enjoyable reading experience. This project leverages Next.js 14, Shadcn for stunning shadows, Tailwind CSS for a clean and responsive design, and Sanity CMS for effortless content management. The entire application is deployed on Vercel for fast and reliable hosting.
+BlogUltra is a personal blog website built with the latest web technologies to provide a seamless and enjoyable reading experience. This project leverages Next.js 14, Shadcn for stunning ui, Tailwind CSS for a clean and responsive design, and Sanity CMS for effortless content management. The entire application is deployed on Vercel for fast and reliable hosting.
 
 ## Technologies Used 🛠️
 
